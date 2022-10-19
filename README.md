@@ -1,15 +1,5 @@
-- ### Minecraft Mods Translator
-  - [x] Fabric mods兼容
-  - [x] Forge mods兼容
-  - [ ] 自定义词典
-  - [ ] 中断保存
-  - [ ] 部署到Web
-  - [ ] 优化性能
-- ### Inspection
-  - [x] Windows推送实现
-  - [ ] 其他平台推送实现
-  - [ ] 更方便的规则
-- ### Automate Gaokao
-  - [x] 全流程基本实现
-  - [ ] 利用OCR自动分页
-  - [ ] 数据利用
+🕊WIP 有生之年系列 🕊
+- [ ] Minecraft Mods Translator 🖊
+- [ ] Inspection 👀
+- [ ] Automate Gaokao 📕
+> ~~ATRI的Prototype，真的有在做了~~
