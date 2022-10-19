@@ -1,6 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kressety&layout=compact&theme=dark">
-
-🕊WIP 有生之年系列 🕊
+🕊WIP 有生之年系列 🕊<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kressety&layout=compact&theme=dark">
 - [ ] Minecraft Mods Translator 🖊
 - [ ] Inspection 👀
 - [ ] Automate Gaokao 📕
