@@ -1,8 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kressety&show_icons=true&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kressety&layout=compact&theme=dark">
 
 🕊WIP 有生之年系列 🕊
 - [ ] Minecraft Mods Translator 🖊
 - [ ] Inspection 👀
 - [ ] Automate Gaokao 📕
-- [ ] Abyss Will 🐙
 > ~~ATRI的Prototype，真的有在做了~~😭
