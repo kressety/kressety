@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**kressety/kressety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Minecraft Mods Translator
+  - [x] Fabric mods兼容
+  - [x] Forge mods兼容
+  - [ ] 自定义词典
+  - [ ] 中断保存
+  - [ ] 部署到Web
+  - [ ] 优化性能
+- ### Inspection
+  - [x] Windows推送实现
+  - [ ] 其他平台推送实现
+  - [ ] 更方便的规则
+- ### Automate Gaokao
+  - [x] 全流程基本实现
+  - [ ] 利用OCR自动分页
+  - [ ] 数据利用
