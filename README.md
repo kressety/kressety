@@ -5,7 +5,9 @@
 class ZackZhu(Human):
     def __init__(self):
         self.pronouns = 'he/him'
-        self.education = 'MSc Business Analytics, University of Birmingham'
+        self.education = {
+            'University of Birmingham': 'MSc Business Analytics'
+        }
         self.skills = ['Python', 'Shell', 'Javascript']
         self.hobbies = ['Anime', 'Minecraft']
         self.favorite_anime_characters = {
@@ -17,8 +19,7 @@ class ZackZhu(Human):
         self.favorite_music = {
             'Mili': [
                 'world.execute(me);', 
-                'iron lotus', 
-                'Salt, Pepper, Birds, and the Thought Police'
+                'iron lotus'
             ],
             'YOASOBI': [
                 'The Brave', 
