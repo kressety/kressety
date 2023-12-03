@@ -6,7 +6,7 @@ class ZackZhu(Human):
     def __init__(self):
         self.pronouns = 'he/him'
         self.degree = 'MSc Business Analytics'
-        self.skills = ['Python', 'Shell', 'Javascript']
+        self.skills = ['Python', 'Shell']
         self.hobbies = ['Anime', 'Minecraft']
         self.favorite_anime_characters = {
             'Atri': 'Atri - My Dear Moments',
