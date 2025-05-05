@@ -1,7 +1,7 @@
 # 👋 Hello there! Welcome to Zackland!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kressety&include_all_commits=true&theme=radical" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=zack-zzq&include_all_commits=true&theme=radical" /><br>
   <em>A passionate developer exploring the intersection of code, creativity, and gaming!</em>
 </p>
 
@@ -25,7 +25,8 @@ Here's what I'm actively working on:
 * **Features:**
     * ✅ **Automated i18n Download:** Fetches localization resources directly from CFPA.  
       [![I18nUpdatePython](https://github-readme-stats.vercel.app/api/pin/?username=zack-zzq&repo=I18nUpdatePython&theme=radical)](https://github.com/zack-zzq/I18nUpdatePython)
-    * ⚙️ **FTB Quest Key Extraction:** Developing logic to automatically pull translation keys. *(In Progress)*
+    * ⚙️ **FTB Quest Key Extraction:** Developing logic to automatically pull translation keys.  
+      [![FTBQuestLocalizerPython](https://github-readme-stats.vercel.app/api/pin/?username=zack-zzq&repo=FTBQuestLocalizerPython&theme=radical)](https://github.com/zack-zzq/FTBQuestLocalizerPython)
     * 🧠 **AI-Powered Pre-translation:** Integrating the OpenAI API to generate initial translation drafts. *(In Progress)*
     * 📅 **Version/Loader Detection:** Planning to add automatic detection of Minecraft versions and mod loaders. *(Planned)*
 
