@@ -23,9 +23,9 @@ Here's what I'm actively working on:
 
 * **Goal:** Streamline the localization process for Minecraft modpacks using Python and AI.
 * **Features:**
-    * ✅ **Automated i18n Download:** Fetches localization resources directly from CFPA.
+    * ✅ **Automated i18n Download:** Fetches localization resources directly from CFPA.  
       [![I18nUpdatePython](https://github-readme-stats.vercel.app/api/pin/?username=zack-zzq&repo=I18nUpdatePython&theme=radical)](https://github.com/zack-zzq/I18nUpdatePython)
-    * ⚙️ **FTB Quest Key Extraction:** Developing logic to automatically pull translation keys from FTB Quest configurations. *(In Progress)*
+    * ⚙️ **FTB Quest Key Extraction:** Developing logic to automatically pull translation keys. *(In Progress)*
     * 🧠 **AI-Powered Pre-translation:** Integrating the OpenAI API to generate initial translation drafts. *(In Progress)*
     * 📅 **Version/Loader Detection:** Planning to add automatic detection of Minecraft versions and mod loaders. *(Planned)*
 
@@ -33,7 +33,7 @@ Here's what I'm actively working on:
 
 * **Concept:** An add-on for the incredible **Create** mod, drawing inspiration from the **Originium** element in *Arknights*.
 * **Platform:** Built with **Neoforge** for **Minecraft 1.21.1**.
-* **Vision:** To introduce new mechanics and machinery themed around Originium, integrating seamlessly with Create's engineering systems.
+* **Vision:** To introduce new mechanics and machinery themed around Originium, integrating seamlessly with Create's engineering systems.  
   [![Create-Originium-Industry](https://github-readme-stats.vercel.app/api/pin/?username=zack-zzq&repo=Create-Originium-Industry&theme=radical)](https://github.com/zack-zzq/Create-Originium-Industry)
 
 ### ⛺ Don't Starve Together Mod Development
